@@ -3,12 +3,13 @@ This project extracts text from images using Tesseract OCR and converts it into 
 
 ```mermaid
 flowchart TD
-    A[Start] --> B [User provides Image]
-    B --> C [Load image using PIL (Python Imaging Library)]
-    C --> D [Extract text using pytesseract (OCR)]
-    D --> E [Display extracted text in console]
-    E --> F [Pass text to gTTS (Google Text-to-Speech)]
-    F --> G [Convert to speech and save as MP3]
-    G --> H [Play or use output audio file]
-    H --> I [End]
+    A[Start] --> B[User provides Image]
+    B --> C[Load image using PIL]
+    C --> D[Extract text using pytesseract]
+    D --> E[Display extracted text]
+    E --> F[Convert text to speech using gTTS]
+    F --> G[Save as MP3 file]
+    G --> H[Play or use output audio]
+    H --> I[End]
+```
 
