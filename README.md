@@ -3,10 +3,10 @@ This project extracts text from images using Tesseract OCR and converts it into 
 
 ## Features
 
-- ✅ Extracts text from any image
-- 🔉 Converts text into speech (MP3 format)
-- 📁 Easy to use and modify
-- 🐍 Built with Python
+- Extracts text from any image
+- Converts text into speech (MP3 format)
+- Easy to use and modify
+- Built with Python
 ---
 
 ## Visual Overview
