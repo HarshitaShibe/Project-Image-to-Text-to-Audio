@@ -2,7 +2,7 @@
 This project extracts text from images using Tesseract OCR and converts it into speech using Google's Text-to-Speech. It can be used for accessibility, document reading or language learning. Just upload an image and the system reads the text aloud!
 
 ```mermaid
-flowchart TD
+flowchart LR
     A[Start] --> B[User provides Image]
     B --> C[Load image using PIL]
     C --> D[Extract text using pytesseract]
