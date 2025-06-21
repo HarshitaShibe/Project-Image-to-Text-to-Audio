@@ -14,7 +14,7 @@ flowchart TB
     H --> I[End]
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 📂 image-to-speech/
@@ -24,10 +24,12 @@ flowchart TB
 └── README.md
 ```
 ## Applications
-Text reading aid for visually impaired users
-Voice-over from scanned documents
-Educational tools for language learners
-Automated reading for printed materials
+
+1. Text reading aid for visually impaired users  
+2. Voice-over from scanned documents  
+3. Educational tools for language learners  
+4. Automated reading for printed materials
+
 
 
 
